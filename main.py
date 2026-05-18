@@ -14,7 +14,7 @@ ADMIN_2 = "https://t.me/Finz8435"
 
 TREND_LINK = "https://www.investing.com/technical/technical-summary"
 DERIVATIVES_LINK = "https://www.nseindia.com/option-chain"
-VOLATILITY_LINK = "https://www.nseindia.com/products-services/indices-india-vix"
+VOLATILITY_LINK = "https://www.nseindia.com/static/products-services/indices-indiavix-index"
 INSTITUTION_LINK = "https://www.moneycontrol.com/stocks/marketstats/fii-dii-activity"
 
 logging.basicConfig(
